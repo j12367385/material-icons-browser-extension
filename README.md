@@ -55,7 +55,7 @@ Update language-map.json with latest language contributions.
 ```shell
 npm run build-languages
 ```
-
+4
 ---
 
 _Special thanks to [@shivapoudel](https://github.com/shivapoudel) for creating and maintaining the Microsoft Edge version of the extension_
